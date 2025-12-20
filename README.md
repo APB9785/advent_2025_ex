@@ -8,3 +8,6 @@ Integer digit chunking
 
 ### Day 3  
 Recursive list processing  
+
+### Day 4
+Simple 2-D grid operations  
