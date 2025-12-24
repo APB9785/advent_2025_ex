@@ -17,3 +17,6 @@ Membership amongst large overlapping ranges
 
 ### Day 6  
 Text parsing  
+
+### Day 7  
+Traversing and counting paths on a large graph  
