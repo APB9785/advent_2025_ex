@@ -20,3 +20,6 @@ Text parsing
 
 ### Day 7  
 Traversing and counting paths on a large graph  
+
+### Day 8  
+Building a 3-D graph with distance calculations  
